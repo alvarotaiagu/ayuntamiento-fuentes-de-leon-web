@@ -1,0 +1,103 @@
+{
+  "_leeme": "GENERADO por scripts/tablon.mjs. Se puede editar a mano titulo_claro (título en lenguaje claro), tema (+ \"tema_manual\": true), oculto y el plazo (plazo_inicio, plazo_fin: AAAA-MM-DD; plazo_ejemplo: true si la fecha no consta en el anuncio). Lo demás se pisa al refrescar.",
+  "fuente": "https://fuentesdeleon.sedelectronica.es/board (copia del día)",
+  "actualizado": "2026-10-05T13:18:25.534Z",
+  "excluidas": 3,
+  "motivos_exclusion": [
+    "resultados con nombres",
+    "lista de admitidos y excluidos"
+  ],
+  "entradas": [
+    {
+      "titulo": "Anuncio de la convocatoria",
+      "descripcion": "CONVOCATORIA DE PLENO: SESIÓN EXTRAORDINARIA DE 9 DE OCTUBRE DE 2026",
+      "expediente": "PLN/2026/8",
+      "procedimiento": "Convocatoria de El Pleno",
+      "categoria": "Órganos de gobierno",
+      "fecha": "2026-10-05",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/281c2f5c-6063-4fb5-901d-d092279b6d69",
+      "tema": "Pleno",
+      "tema_manual": false,
+      "titulo_claro": "Convocatoria del Pleno extraordinario del 9 de octubre",
+      "oculto": false
+    },
+    {
+      "titulo": "BASES PLAZA DE JARDINERIA PCEME 2026.",
+      "descripcion": "CONVOCATORIA Y BASES DEL PROCESO SELECTIVO PARA CUBRIR UNA PLAZA DE JARDINERO/A MPAL CON CARGO AL PCEME 2026.",
+      "expediente": "133/2026",
+      "procedimiento": "Concesión de Subvenciones",
+      "categoria": "Empleo Público",
+      "fecha": "2026-10-02",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/14ebef7d-e329-421a-8d5d-be63a52fb10c",
+      "tema": "Empleo",
+      "tema_manual": false,
+      "titulo_claro": "Plaza de jardinero o jardinera municipal: convocatoria y bases",
+      "oculto": false
+    },
+    {
+      "titulo": "RESULTADOS DEFINITIVOS PROCESO SELECTIVO PARA CUBRIR PLAZAS DE CEI EL GLOBO.",
+      "descripcion": "RESULTADOS DEFINITIVOS DEL PROCESO SELECTIVO CELEBRADO PARA CUBRIR LAS PLAZAS DE MAESTRO Y TECNICO SUPERIOR DE EDUCACION INFANTIL CEI EL GLOBO",
+      "expediente": "462/2026",
+      "procedimiento": "Subvenciones Solicitadas a Otra Administración",
+      "categoria": "Empleo Público",
+      "fecha": "2026-09-29",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/a26e4e69-44d5-4174-81bc-54a2f142e0e1",
+      "tema": "Empleo",
+      "tema_manual": false,
+      "titulo_claro": "",
+      "oculto": true
+    },
+    {
+      "titulo": "APROBACIÓN INICIAL MODIFICACIÓN OF B.O.P. nº. 167 - Anuncio 3431_2026 - martes, 1 de septiembre de 2026",
+      "descripcion": "APROBACIÓN INICIAL DE LA MODIFICACIÓN DE LA ORDENANZA FISCAL REGULADORA DE LA TASA POR OCUPACIÓN DE LA VÍA PÚBLICA CON MATERIALES DE CONSTRUCCIÓN, ESCOMBROS ANDAMIOS, CORTES DE CALLES Y OTRAS INSTALACIONES ANÁLOGAS",
+      "expediente": "898/2026",
+      "procedimiento": "Aprobación o Modificación de Ordenanza Fiscal Reguladora",
+      "categoria": "Anuncios",
+      "fecha": "2026-09-01",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/2fda331e-f09e-447d-85dc-e686c1041a61",
+      "tema": "Impuestos",
+      "tema_manual": false,
+      "titulo_claro": "Tasa por ocupar la vía pública con obras: aprobación inicial del cambio",
+      "oculto": false
+    },
+    {
+      "titulo": "APROBACIÓN INICIAL OR_ B.O.P. nº. 167 - Anuncio 3430_2026 - martes, 1 de septiembre de 2026",
+      "descripcion": "APROBACIÓN INICIAL DE LA ORDENANZA REGULADORA DE LOS CORTES TEMPORALES DE VÍAS PÚBLICAS VINCULADOS A ESTABLECIMIENTOS DE HOSTELERÍA",
+      "expediente": "897/2026",
+      "procedimiento": "Disposiciones Normativas",
+      "categoria": "Anuncios",
+      "fecha": "2026-09-01",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/3117669e-90e1-4784-a067-22da13221ec3",
+      "tema": "Anuncios",
+      "tema_manual": false,
+      "titulo_claro": "Cortes temporales de calles para la hostelería: aprobación inicial de la ordenanza",
+      "oculto": false
+    },
+    {
+      "titulo": "APROBACIÓN INICIAL PAM CONTRA INCENDIOS B.O.P. nº. 167 - Anuncio 3448_2026 - martes, 1 de septiembre de 2026",
+      "descripcion": "APROBACIÓN INICIAL DEL PLAN DE ACTUACIÓN MUNICIPAL FRENTE A RIESGO DE INCENDIOS FORESTALES",
+      "expediente": "78/2026",
+      "procedimiento": "Procedimiento Genérico",
+      "categoria": "Anuncios",
+      "fecha": "2026-09-01",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/33026a6d-b682-47f1-91e1-bc778c1d987c",
+      "tema": "Anuncios",
+      "tema_manual": false,
+      "titulo_claro": "Plan municipal contra incendios forestales: aprobación inicial",
+      "oculto": false
+    },
+    {
+      "titulo": "OF CORTE CALLE 898-26",
+      "descripcion": "APROBACIÓN INICIAL DE LA MODIFICACIÓN DE LA ORDENANZA FISCAL REGULADORA DE LA TASA POR OCUPACIÓN DE LA VÍA PÚBLICA CON MATERIALES DE CONSTRUCCIÓN, ESCOMBROS ANDAMIOS, CORTES DE CALLES Y OTRAS INSTALACIONES ANÁLOGAS",
+      "expediente": "898/2026",
+      "procedimiento": "Aprobación o Modificación de Ordenanza Fiscal Reguladora",
+      "categoria": "Anuncios",
+      "fecha": "2026-09-01",
+      "url": "https://fuentesdeleon.sedelectronica.es/preview-document/693bf679-c347-4f2d-a51d-2a953f335923",
+      "tema": "Impuestos",
+      "tema_manual": false,
+      "titulo_claro": "Tasa por ocupar la vía pública con obras: texto de la ordenanza",
+      "oculto": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "_leeme": "Agenda. Campos: id, fecha (AAAA-MM-DD), hora (opcional), titulo, lugar, nota, ejemplo. Las fiestas de fecha fija de municipio.json (pueblo.fiestas[].fecha_fija) se añaden solas. Fuente: «Eventos» de aytofuentesdeleon.com (consultada el 5-10-2026).",
+  "eventos": [
+    {
+      "id": "concentracion-senderista-2026",
+      "fecha": "2026-10-11",
+      "hora": "10:00",
+      "hora_fin": "18:00",
+      "titulo": "VII Concentración senderista",
+      "lugar": "Plaza de España"
+    },
+    {
+      "id": "dia-mancomunidad-2026",
+      "fecha": "2026-10-11",
+      "titulo": "XLVII Día de la Mancomunidad",
+      "lugar": "Bodonal de la Sierra",
+      "nota": "Es de la Mancomunidad de Tentudía: se celebra fuera del pueblo."
+    }
+  ]
+}

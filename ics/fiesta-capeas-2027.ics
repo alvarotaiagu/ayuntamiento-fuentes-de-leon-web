@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Fuentes de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fiesta-capeas-2027@fuentes-de-leon.agenda
+DTSTAMP:20261005T134409Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Capeas
+URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
+ html#evento-fiesta-capeas-2027
+END:VEVENT
+END:VCALENDAR

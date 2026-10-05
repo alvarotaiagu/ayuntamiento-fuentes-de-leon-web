@@ -1,0 +1,13 @@
+{
+  "_leeme": "Crédito de cada foto de media/ (por nombre, sin .jpg). Todas son de Wikimedia Commons, con licencia libre: hay que acreditar autor, licencia y enlace a la ficha (y, con CC BY-SA, compartir las adaptaciones en la misma licencia).",
+  "vista-general": { "titulo": "Vista del casco urbano de Fuentes de León", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_14.jpg" },
+  "ayuntamiento": { "titulo": "Casa Consistorial de Fuentes de León", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_01.jpg" },
+  "dehesa-cielo": { "titulo": "Cielo sobre el olivar y la dehesa", "autor": "Paulo Valdivieso (Lisboa)", "licencia": "CC BY-SA 2.0", "url": "https://commons.wikimedia.org/wiki/File:Cielo_-2_(30231912706).jpg", "nota": "La ficha de Commons la sitúa en Fuentes de León (Badajoz)." },
+  "danzantes": { "titulo": "Danzantes del Corpus Christi", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_07.jpg" },
+  "cueva": { "titulo": "Estalactitas en una de las Cuevas de Fuentes de León", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_04.jpg" },
+  "iglesia-retablo": { "titulo": "Retablo mayor de la iglesia parroquial", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_13.jpg" },
+  "convento": { "titulo": "El convento de San Diego de Alcalá desde la calle", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_11.jpg" },
+  "plaza-toros": { "titulo": "Puerta de la plaza de toros", "autor": "Acuxhinu", "licencia": "CC BY 4.0", "url": "https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_Torus_de_Huentis_de_Le%C3%B3n.jpg" },
+  "cine-teatro": { "titulo": "Cine-Teatro San Vicente", "autor": "Acuxhinu", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:Cini-teatru_San_Vicenti.jpg" },
+  "paseo-san-onofre": { "titulo": "Paseo de San Onofre", "autor": "Adolfobrigido", "licencia": "CC BY-SA 4.0", "url": "https://commons.wikimedia.org/wiki/File:BA-Fuentes_de_Le%C3%B3n_12.jpg" }
+}

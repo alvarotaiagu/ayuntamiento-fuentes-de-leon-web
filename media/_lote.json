@@ -1,0 +1,12 @@
+[
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/01-vista-general-pueblo.jpg", "salida": "vista-general" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/05-ayuntamiento-fachada.jpg", "salida": "ayuntamiento" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/06-dehesa-olivar-cielo.jpg", "salida": "dehesa-cielo" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/14-danzantes-calle.jpg", "salida": "danzantes" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/15-cueva-estalactitas.jpg", "salida": "cueva" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/04-iglesia-retablo-mayor.jpg", "salida": "iglesia-retablo" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/02-convento-desde-calle.jpg", "salida": "convento" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/13-plaza-de-toros-puerta.jpg", "salida": "plaza-toros" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/16-cine-teatro-san-vicente.jpg", "salida": "cine-teatro" },
+  { "origen": "../../ayuntamiento-fuentes-de-leon-bocetos/fotos-commons/03-plaza-paseo-san-onofre.jpg", "salida": "paseo-san-onofre" }
+]

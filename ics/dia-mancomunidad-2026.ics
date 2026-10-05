@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ayuntamiento de Fuentes de León//Agenda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dia-mancomunidad-2026@fuentes-de-leon.agenda
+DTSTAMP:20261005T134409Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:XLVII Día de la Mancomunidad
+LOCATION:Bodonal de la Sierra\, Fuentes de León
+DESCRIPTION:Es de la Mancomunidad de Tentudía: se celebra fuera del pueblo
+ .
+URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
+ html#evento-dia-mancomunidad-2026
+END:VEVENT
+END:VCALENDAR

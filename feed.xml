@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <title>Avisos y noticias · Ayuntamiento de Fuentes de León</title>
+  <subtitle>Lo que publica el Ayuntamiento de Fuentes de León: avisos (cortes, convocatorias, plazos) y noticias.</subtitle>
+  <id>urn:uuid:477c593b-542c-9b1a-9f4a-5497cdeae8c4</id>
+  <link rel="self" type="application/atom+xml" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/avisos.html"/>
+  <updated>2026-09-07T09:00:00+02:00</updated>
+  <author><name>Ayuntamiento de Fuentes de León</name></author>
+  <icon>https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/marca/escudo-160.png</icon>
+  <entry>
+    <title>La biblioteca tiene nuevo horario desde el 14 de septiembre</title>
+    <id>urn:uuid:5c1b3dd3-cd75-e908-7844-4581a8ece858</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/avisos.html#aviso-biblioteca-horario-septiembre-2026"/>
+    <published>2026-09-07T09:00:00+02:00</published>
+    <updated>2026-09-07T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Lunes, martes, jueves y viernes, de 17:00 a 21:00. Miércoles, de 10:00 a 14:00.</summary>
+  </entry>
+  <entry>
+    <title>Una nueva sala conecta la Cueva de los Postes con la Cueva Nueva</title>
+    <id>urn:uuid:12e256b1-9757-4c27-3c2f-183fe4093032</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-nueva-sala-cuevas-2026.html"/>
+    <published>2026-08-27T09:00:00+02:00</published>
+    <updated>2026-08-27T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">La campaña de este verano en las Cuevas ha abierto cerca de 100 metros de galerías y ha confirmado que las dos cavidades son un mismo sistema.</summary>
+  </entry>
+  <entry>
+    <title>El consejero Abel Bautista visita las Cuevas de Fuentes de León</title>
+    <id>urn:uuid:bdc81e9b-ac29-bbf2-d2fd-f5263ff3b307</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-visita-consejero-cuevas-2026.html"/>
+    <published>2026-08-13T09:00:00+02:00</published>
+    <updated>2026-08-13T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">El vicepresidente de la Junta recorrió el Monumento Natural, declarado en 2001, acompañado de la alcaldesa.</summary>
+  </entry>
+  <entry>
+    <title>Nuevo equipamiento para los Pisos Tutelados y el Centro de Día Santa Ana</title>
+    <id>urn:uuid:302311c4-bc70-dd52-d7f3-a26fb7e4952f</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-mejoras-pisos-tutelados-2026.html"/>
+    <published>2026-08-12T09:00:00+02:00</published>
+    <updated>2026-08-12T09:00:00+02:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Lavadora, secadora, televisores, butacas y sofás, con una subvención del Plan Impulsa ODS de la Diputación.</summary>
+  </entry>
+  <entry>
+    <title>No se pueden tirar animales muertos a los contenedores ni al Punto Limpio</title>
+    <id>urn:uuid:aecd041a-da1d-f0f4-d790-f15e1f58893a</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/avisos.html#aviso-punto-limpio-animales-muertos"/>
+    <published>2026-08-11T09:00:00+02:00</published>
+    <updated>2026-08-11T09:00:00+02:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Deben retirarse con los operadores autorizados. Si ve a alguien hacerlo, avise al Ayuntamiento o a la Guardia Civil.</summary>
+  </entry>
+  <entry>
+    <title>La oficina de la trabajadora social está ahora en el consultorio médico</title>
+    <id>urn:uuid:e4b1c85b-729b-0be9-f7e5-e4d44978b49e</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/avisos.html#aviso-oficina-trabajadora-social-2026"/>
+    <published>2026-02-12T09:00:00+01:00</published>
+    <updated>2026-02-12T09:00:00+01:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Se trasladó desde la Plaza de España para tener más espacio. Se entra por la puerta de Urgencias del consultorio.</summary>
+  </entry>
+  <entry>
+    <title>El Ayuntamiento estrena una carpa municipal más ligera y más alta</title>
+    <id>urn:uuid:90be0e92-387d-5930-2ed5-0c55a94e03f0</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-carpa-municipal-2026.html"/>
+    <published>2026-02-12T09:00:00+01:00</published>
+    <updated>2026-02-12T09:00:00+01:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Se estrenó en el Carnaval. La ayuda LEADER fue de 45.375 euros.</summary>
+  </entry>
+  <entry>
+    <title>Fuentes de León, en FITUR con la Mancomunidad Turística de Tentudía</title>
+    <id>urn:uuid:ad2eaa7f-0154-50f4-cfde-eeb0a0f35aba</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-fitur-2026.html"/>
+    <published>2026-01-29T09:00:00+01:00</published>
+    <updated>2026-01-29T09:00:00+01:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">La alcaldesa presentó en Madrid la oferta gastronómica de la comarca, con la Feria del Jamón como reclamo.</summary>
+  </entry>
+  <entry>
+    <title>Contenedor marrón: el kit de reciclaje se recoge en el Ayuntamiento</title>
+    <id>urn:uuid:93823301-9810-a0bb-d5e4-3d17ea6bdcc1</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/avisos.html#aviso-contenedor-marron-kit"/>
+    <published>2026-01-26T09:00:00+01:00</published>
+    <updated>2026-01-26T09:00:00+01:00</updated>
+    <category term="aviso" label="Aviso"/>
+    <summary type="text">Desde el 19 de enero se recoge la fracción orgánica. Quien aún no tenga el kit (cubo, bolsas compostables y llave del contenedor) puede pasar a por él por el Ayuntamiento.</summary>
+  </entry>
+  <entry>
+    <title>Empieza la recogida de la fracción orgánica en el contenedor marrón</title>
+    <id>urn:uuid:69ec55be-8428-05bb-6fd5-d9891e2b6dd9</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-contenedor-marron-2026.html"/>
+    <published>2026-01-26T09:00:00+01:00</published>
+    <updated>2026-01-26T09:00:00+01:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">Desde el 19 de enero se recoge de forma regular. El kit se retira en el Ayuntamiento.</summary>
+  </entry>
+  <entry>
+    <title>Empieza el programa de formación y empleo «Verde y Tierra»</title>
+    <id>urn:uuid:1c7755cf-308e-4267-57fa-7bb3d46b1b2b</id>
+    <link rel="alternate" type="text/html" href="https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/noticia-escala-jardines-2026.html"/>
+    <published>2026-01-07T09:00:00+01:00</published>
+    <updated>2026-01-07T09:00:00+01:00</updated>
+    <category term="noticia" label="Noticia"/>
+    <summary type="text">El alumnado aprenderá a instalar y mantener jardines y zonas verdes, con subvención de la Junta.</summary>
+  </entry>
+</feed>

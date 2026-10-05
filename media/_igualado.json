@@ -1,0 +1,249 @@
+{
+ "_leeme": "Lo escribe scripts/fotos-igualar.py: lo medido y lo aplicado a cada foto (no editar).",
+ "parametros": {
+  "LADO": 1600,
+  "LADO_MOVIL": 800,
+  "FUERZA_BLANCOS": 0.6,
+  "TOPE_BLANCOS": 0.07,
+  "MIN_GRISES": 0.03,
+  "NEGRO": 0.025,
+  "BLANCO": 0.965,
+  "TOPE_NIVELES": 1.3,
+  "MEDIANA": 0.52,
+  "GAMMA_MIN": 0.8,
+  "GAMMA_MAX": 1.1,
+  "CROMA": 0.115,
+  "SAT_MIN": 0.85,
+  "SAT_MAX": 1.12,
+  "CALIDO": 0.012,
+  "NITIDEZ": {
+   "radius": 1.0,
+   "percent": 35,
+   "threshold": 3
+  },
+  "CALIDAD": 84,
+  "CALIDAD_MOVIL": 82
+ },
+ "fotos": {
+  "ayuntamiento": {
+   "grises": 0.329,
+   "ganancia_rgb": [
+    1.002,
+    0.998,
+    1.012
+   ],
+   "niveles": [
+    0.031,
+    0.927
+   ],
+   "estira": 1.049,
+   "gamma": 1.1,
+   "croma_antes": 0.215,
+   "saturacion": 0.85,
+   "croma_despues": 0.179,
+   "mediana_despues": 0.523,
+   "tamano": [
+    1600,
+    1120
+   ]
+  },
+  "cine-teatro": {
+   "grises": 0.467,
+   "ganancia_rgb": [
+    0.992,
+    1.001,
+    1.015
+   ],
+   "niveles": [
+    0.003,
+    0.998
+   ],
+   "estira": 0.945,
+   "gamma": 0.873,
+   "croma_antes": 0.085,
+   "saturacion": 1.12,
+   "croma_despues": 0.094,
+   "mediana_despues": 0.522,
+   "tamano": [
+    1600,
+    1200
+   ]
+  },
+  "convento": {
+   "grises": 0.415,
+   "ganancia_rgb": [
+    1.008,
+    0.997,
+    1.009
+   ],
+   "niveles": [
+    0.054,
+    0.92
+   ],
+   "estira": 1.085,
+   "gamma": 1.1,
+   "croma_antes": 0.119,
+   "saturacion": 0.983,
+   "croma_despues": 0.121,
+   "mediana_despues": 0.656,
+   "tamano": [
+    1200,
+    1600
+   ]
+  },
+  "cueva": {
+   "grises": 0.477,
+   "ganancia_rgb": [
+    0.998,
+    0.999,
+    1.012
+   ],
+   "niveles": [
+    0.085,
+    0.987
+   ],
+   "estira": 1.042,
+   "gamma": 1.1,
+   "croma_antes": 0.102,
+   "saturacion": 1.062,
+   "croma_despues": 0.121,
+   "mediana_despues": 0.651,
+   "tamano": [
+    1600,
+    1206
+   ]
+  },
+  "danzantes": {
+   "grises": 0.459,
+   "ganancia_rgb": [
+    1.0,
+    0.998,
+    1.022
+   ],
+   "niveles": [
+    0.001,
+    0.959
+   ],
+   "estira": 0.981,
+   "gamma": 0.897,
+   "croma_antes": 0.1,
+   "saturacion": 1.073,
+   "croma_despues": 0.116,
+   "mediana_despues": 0.521,
+   "tamano": [
+    1600,
+    1095
+   ]
+  },
+  "dehesa-cielo": {
+   "grises": 0.313,
+   "ganancia_rgb": [
+    1.003,
+    1.0,
+    0.994
+   ],
+   "niveles": [
+    0.008,
+    0.977
+   ],
+   "estira": 0.97,
+   "gamma": 0.8,
+   "croma_antes": 0.135,
+   "saturacion": 0.924,
+   "croma_despues": 0.122,
+   "mediana_despues": 0.428,
+   "tamano": [
+    1600,
+    1067
+   ]
+  },
+  "iglesia-retablo": {
+   "grises": 0.318,
+   "ganancia_rgb": [
+    0.979,
+    1.007,
+    0.995
+   ],
+   "niveles": [
+    0.016,
+    0.983
+   ],
+   "estira": 0.972,
+   "gamma": 0.8,
+   "croma_antes": 0.099,
+   "saturacion": 1.08,
+   "croma_despues": 0.114,
+   "mediana_despues": 0.481,
+   "tamano": [
+    1600,
+    1200
+   ]
+  },
+  "paseo-san-onofre": {
+   "grises": 0.195,
+   "ganancia_rgb": [
+    1.003,
+    0.998,
+    1.015
+   ],
+   "niveles": [
+    0.008,
+    0.998
+   ],
+   "estira": 0.949,
+   "gamma": 0.8,
+   "croma_antes": 0.117,
+   "saturacion": 0.989,
+   "croma_despues": 0.124,
+   "mediana_despues": 0.443,
+   "tamano": [
+    1600,
+    1064
+   ]
+  },
+  "plaza-toros": {
+   "grises": 0.613,
+   "ganancia_rgb": [
+    0.999,
+    1.0,
+    1.003
+   ],
+   "niveles": [
+    0.039,
+    0.997
+   ],
+   "estira": 0.981,
+   "gamma": 1.03,
+   "croma_antes": 0.083,
+   "saturacion": 1.12,
+   "croma_despues": 0.088,
+   "mediana_despues": 0.521,
+   "tamano": [
+    1237,
+    1600
+   ]
+  },
+  "vista-general": {
+   "grises": 0.501,
+   "ganancia_rgb": [
+    1.011,
+    0.997,
+    0.996
+   ],
+   "niveles": [
+    0.011,
+    0.986
+   ],
+   "estira": 0.964,
+   "gamma": 1.1,
+   "croma_antes": 0.11,
+   "saturacion": 1.023,
+   "croma_despues": 0.117,
+   "mediana_despues": 0.567,
+   "tamano": [
+    1600,
+    1064
+   ]
+  }
+ }
+}

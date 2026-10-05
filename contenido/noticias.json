@@ -1,0 +1,104 @@
+{
+  "_leeme": "Noticias. Campos: id (sale en la dirección: noticia-<id>.html), fecha, titulo, resumen, cuerpo (lista de párrafos), imagen (nombre en media/, sin .jpg) + imagen_alt, fuente {nombre, url}. Fuente: las noticias de aytofuentesdeleon.com, resumidas con palabras propias; cada una enlaza a la original.",
+  "noticias": [
+    {
+      "id": "nueva-sala-cuevas-2026",
+      "fecha": "2026-08-27",
+      "titulo": "Una nueva sala conecta la Cueva de los Postes con la Cueva Nueva",
+      "resumen": "La campaña de este verano en las Cuevas ha abierto cerca de 100 metros de galerías y ha confirmado que las dos cavidades son un mismo sistema.",
+      "cuerpo": [
+        "La campaña arqueológica de julio y agosto ha descubierto una sala que une la Cueva de los Postes con la Cueva Nueva, localizada en 2025. Se han explorado cerca de 100 metros de nuevas galerías y se ha confirmado que ambas cavidades forman parte de un mismo sistema kárstico.",
+        "Dentro se han identificado cuatro salas, una de ellas muy grande, con un desnivel de unos 20 metros y un lago interior de unos 15 metros de largo. También hay formaciones en muy buen estado y restos arqueológicos que se estudiarán.",
+        "El hallazgo llega en el 25.º aniversario del proyecto «Orígenes», que investiga las cuevas desde 2001. RTVE le dedicó un reportaje."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 27-8-2026",
+        "url": "https://aytofuentesdeleon.com/rtve-se-hace-eco-del-nuevo-hallazgo-en-las-cuevas-de-fuentes-de-leon/"
+      }
+    },
+    {
+      "id": "visita-consejero-cuevas-2026",
+      "fecha": "2026-08-13",
+      "titulo": "El consejero Abel Bautista visita las Cuevas de Fuentes de León",
+      "resumen": "El vicepresidente de la Junta recorrió el Monumento Natural, declarado en 2001, acompañado de la alcaldesa.",
+      "cuerpo": [
+        "El vicepresidente y consejero de Presidencia de la Junta de Extremadura, Abel Bautista, visitó el Monumento Natural de las Cuevas de Fuentes de León. Lo acompañaron la alcaldesa y el concejal de Desarrollo Local.",
+        "El conjunto de cuevas se declaró Monumento Natural en 2001 y es uno de los espacios kársticos más destacados del sur de Extremadura."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 13-8-2026",
+        "url": "https://aytofuentesdeleon.com/el-consejero-abel-bautista-visita-el-monumento-natural-de-las-cuevas-de-fuentes-de-leon/"
+      }
+    },
+    {
+      "id": "mejoras-pisos-tutelados-2026",
+      "fecha": "2026-08-12",
+      "titulo": "Nuevo equipamiento para los Pisos Tutelados y el Centro de Día Santa Ana",
+      "resumen": "Lavadora, secadora, televisores, butacas y sofás, con una subvención del Plan Impulsa ODS de la Diputación.",
+      "cuerpo": [
+        "El Ayuntamiento ha comprado equipamiento y mobiliario para los Pisos Tutelados y el Centro de Día Santa Ana con una subvención del Plan Impulsa ODS de la Diputación de Badajoz.",
+        "Entre otras cosas, una lavadora, una secadora, un microondas, dos televisores, butacas, sofás y lámparas, para que residentes y profesionales tengan espacios más cómodos."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 12-8-2026",
+        "url": "https://aytofuentesdeleon.com/mejoras-en-los-pisos-tutelados-y-centro-de-dia-santa-ana/"
+      }
+    },
+    {
+      "id": "carpa-municipal-2026",
+      "fecha": "2026-02-12",
+      "titulo": "El Ayuntamiento estrena una carpa municipal más ligera y más alta",
+      "resumen": "Se estrenó en el Carnaval. La ayuda LEADER fue de 45.375 euros.",
+      "cuerpo": [
+        "La nueva carpa, comprada en 2025, es más amplia, más alta y más ligera que la anterior, así que se monta y se desmonta antes. Está adaptada a las medidas de la plaza y cumple la normativa.",
+        "La compra se hizo con una ayuda de 45.375 euros de la convocatoria LEADER gestionada por CEDECO-Tentudía. La carpa anterior seguirá en uso para otras actividades."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 12-2-2026",
+        "url": "https://aytofuentesdeleon.com/el-ayuntamiento-de-fuentes-de-leon-adquiere-una-nueva-carpa-municipal/"
+      }
+    },
+    {
+      "id": "fitur-2026",
+      "fecha": "2026-01-29",
+      "titulo": "Fuentes de León, en FITUR con la Mancomunidad Turística de Tentudía",
+      "resumen": "La alcaldesa presentó en Madrid la oferta gastronómica de la comarca, con la Feria del Jamón como reclamo.",
+      "cuerpo": [
+        "La alcaldesa asistió el 21 de enero a la Feria Internacional de Turismo en Madrid, junto a la Mancomunidad Turística de Tentudía, en la presentación de la gastronomía de la comarca.",
+        "Entre los eventos del pueblo se destacó la Feria del Jamón."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 29-1-2026",
+        "url": "https://aytofuentesdeleon.com/fuentes-de-leon-presente-en-fitur-junto-a-la-mancomunidad-turistica-de-tentudia/"
+      }
+    },
+    {
+      "id": "contenedor-marron-2026",
+      "fecha": "2026-01-26",
+      "titulo": "Empieza la recogida de la fracción orgánica en el contenedor marrón",
+      "resumen": "Desde el 19 de enero se recoge de forma regular. El kit se retira en el Ayuntamiento.",
+      "cuerpo": [
+        "Desde el 19 de enero se recogen los restos orgánicos del contenedor marrón dentro del nuevo sistema de recogida selectiva.",
+        "Quien todavía no haya recogido el kit de reciclaje —cubo doméstico, bolsas compostables y llave del contenedor— puede hacerlo en el Ayuntamiento."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 26-1-2026",
+        "url": "https://aytofuentesdeleon.com/comienza-la-recogida-de-la-fraccion-organica-del-contenedor-marron-en-fuentes-de-leon/"
+      }
+    },
+    {
+      "id": "escala-jardines-2026",
+      "fecha": "2026-01-07",
+      "titulo": "Empieza el programa de formación y empleo «Verde y Tierra»",
+      "resumen": "El alumnado aprenderá a instalar y mantener jardines y zonas verdes, con subvención de la Junta.",
+      "cuerpo": [
+        "El 30 de diciembre arrancó en Fuentes de León el programa de formación y empleo ESCALA de instalación y mantenimiento de jardines y zonas verdes, «Verde y Tierra». Lo subvenciona la Junta de Extremadura.",
+        "Combina formación y trabajo: el alumnado aprende el oficio y, mientras tanto, mejora espacios públicos del pueblo. Sigue al programa de atención sociosanitaria, clausurado en diciembre."
+      ],
+      "fuente": {
+        "nombre": "Ayuntamiento de Fuentes de León, 7-1-2026",
+        "url": "https://aytofuentesdeleon.com/comienza-en-fuentes-de-leon-el-programa-de-formacion-y-empleo-escala-de-mantenimiento-de-jardines-y-zonas-verdes/"
+      }
+    }
+  ]
+}

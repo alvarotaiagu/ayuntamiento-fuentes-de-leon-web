@@ -1,0 +1,37 @@
+{
+  "_leeme": "Avisos del Ayuntamiento. Campos: id, fecha (AAAA-MM-DD), tema, titulo, texto, enlace (opcional). Con \"urgente\": true y \"caduca\" (AAAA-MM-DD) sale en la franja roja de todas las páginas hasta ese día incluido. \"ejemplo\": true pone la etiqueta «Ejemplo». Fuente de los reales: las entradas de aytofuentesdeleon.com (enlazadas en cada aviso; varias son solo imagen y se han leído a mano).",
+  "avisos": [
+    {
+      "id": "biblioteca-horario-septiembre-2026",
+      "fecha": "2026-09-07",
+      "tema": "Cultura",
+      "titulo": "La biblioteca tiene nuevo horario desde el 14 de septiembre",
+      "texto": "Lunes, martes, jueves y viernes, de 17:00 a 21:00. Miércoles, de 10:00 a 14:00.",
+      "enlace": "https://aytofuentesdeleon.com/nuevo-horario-biblioteca-a-partir-del-14-de-septiembre/"
+    },
+    {
+      "id": "oficina-trabajadora-social-2026",
+      "fecha": "2026-02-12",
+      "tema": "Servicios sociales",
+      "titulo": "La oficina de la trabajadora social está ahora en el consultorio médico",
+      "texto": "Se trasladó desde la Plaza de España para tener más espacio. Se entra por la puerta de Urgencias del consultorio.",
+      "enlace": "https://aytofuentesdeleon.com/cambio-de-la-oficina-de-la-trabajadora-social/"
+    },
+    {
+      "id": "contenedor-marron-kit",
+      "fecha": "2026-01-26",
+      "tema": "Residuos",
+      "titulo": "Contenedor marrón: el kit de reciclaje se recoge en el Ayuntamiento",
+      "texto": "Desde el 19 de enero se recoge la fracción orgánica. Quien aún no tenga el kit (cubo, bolsas compostables y llave del contenedor) puede pasar a por él por el Ayuntamiento.",
+      "enlace": "https://aytofuentesdeleon.com/comienza-la-recogida-de-la-fraccion-organica-del-contenedor-marron-en-fuentes-de-leon/"
+    },
+    {
+      "id": "punto-limpio-animales-muertos",
+      "fecha": "2026-08-11",
+      "tema": "Residuos",
+      "titulo": "No se pueden tirar animales muertos a los contenedores ni al Punto Limpio",
+      "texto": "Deben retirarse con los operadores autorizados. Si ve a alguien hacerlo, avise al Ayuntamiento o a la Guardia Civil.",
+      "enlace": "https://aytofuentesdeleon.com/comunicado-prohibicion-de-tirar-al-punto-limpio-o-a-los-contenedores-animales-muertos/"
+    }
+  ]
+}
