@@ -3,7 +3,7 @@
 Maqueta de la web municipal del **Ayuntamiento de Fuentes de León** (Badajoz, 2.118 habitantes, INE 2025), hecha con la plantilla «Puerta abierta» v3 (`plantilla-ayuntamiento-puerta-abierta-web`, rama `master`) y con sus datos reales. Se le propone por correo.
 
 - **No es la web oficial.** Lleva en todas las páginas la banda «Propuesta de diseño… no es la web oficial» y `noindex, nofollow`.
-- **Sin publicar.** Está solo en local. `municipio.json → url` ya apunta a `https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/` para cuando se decida publicarla (repo `alvarotaiagu/ayuntamiento-fuentes-de-leon-web`, Pages sobre `master`).
+- **Publicada** el 5-10-2026 en <https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/> (repo `alvarotaiagu/ayuntamiento-fuentes-de-leon-web`, Pages sobre `master`; con `?revision` sale el mando). `actualizar.yml` hace que un bot comitee a diario: `git pull --rebase origin master` antes de cada push.
 - Las fuentes de cada dato, el inventario de sus webs actuales y sus errores están **fuera de esta carpeta**, en `../ayuntamiento-fuentes-de-leon-bocetos/`: `DATOS.md`, `INVENTARIO.md`, `ERRORES.md` y `CORREO.md`.
 
 ```bash
