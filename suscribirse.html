@@ -19,12 +19,12 @@
 <link rel="manifest" href="manifest.json">
 <link rel="preload" href="fonts/besley-700-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="fonts/libre-franklin-400-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="css/fuentes.css?v=5c32df95">
+<link rel="stylesheet" href="css/fuentes.css?v=03f84dac">
 <link rel="stylesheet" href="css/marca.css?v=bdc000b0">
-<link rel="stylesheet" href="css/base.css?v=9bcd9cef">
-<link rel="stylesheet" href="css/movimiento.css?v=f4ef5a0d">
-<link rel="stylesheet" href="css/imprimir.css?v=4f5c00b4" media="print">
-<link rel="stylesheet" href="css/propuesta.css?v=9bbaa676">
+<link rel="stylesheet" href="css/base.css?v=e6e45b5b">
+<link rel="stylesheet" href="css/movimiento.css?v=6f3573ca">
+<link rel="stylesheet" href="css/imprimir.css?v=b9961711" media="print">
+<link rel="stylesheet" href="css/propuesta.css?v=83953f56">
 <link rel="alternate" type="application/atom+xml" title="Avisos y noticias · Ayuntamiento de Fuentes de León" href="feed.xml">
 <link rel="alternate" type="text/calendar" title="Agenda de Fuentes de León" href="agenda.ics">
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/index.html"},{"@type":"ListItem","position":2,"name":"Avisos y agenda en su móvil","item":"https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/suscribirse.html"}]}]}</script>
@@ -36,7 +36,6 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
 (function () {
   var h = document.documentElement;
   h.className = h.className.replace('sin-js', 'con-js');
-
 
   /* [MANDO DE MAQUETA] inicio */
   /* Solo con ?revision: lo guardado no cuenta fuera de la reunión, o un móvil
@@ -119,7 +118,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
           <li><a class="menu__enlace" href="pueblo.html">El pueblo</a></li>
           <li><a class="menu__enlace" href="telefonos.html">Teléfonos</a></li>
           <li><a class="menu__enlace" href="contacto.html">Contacto</a></li>
-          
+
         </ul>
         <a class="boton boton--marca menu__sede" href="https://fuentesdeleon.sedelectronica.es"><svg class="icono" aria-hidden="true"><use href="#i-sede"/></svg>Sede electrónica</a>
       </nav>
@@ -153,18 +152,16 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
     <nav class="migas" aria-label="Usted está aquí">
       <ol>
         <li><a href="index.html">Inicio</a></li>
-        
+
         <li><span aria-current="page">Avisos y agenda en su móvil</span></li>
       </ol>
     </nav>
     <h1 class="cabeza-pagina__titulo" id="titulo-pagina">Avisos y agenda en su móvil</h1>
     <p class="entradilla">La agenda del Ayuntamiento en el calendario de su móvil y los avisos en un lector de noticias, sin redes sociales.</p>
-    
+
     <div class="cabeza-pagina__puerta cabeza-pagina__puerta--linea" aria-hidden="true"><span class="cabeza-pagina__arco cabeza-pagina__arco--linea"><svg class="cabeza-pagina__picto" viewBox="0 0 24 24" focusable="false" data-picto="megafono"><path pathLength="1" d="M4.5 9.5H7l7-4.5v14l-7-4.5H4.5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1Z"/><path pathLength="1" d="M7 9.5v5"/><path pathLength="1" d="M7.6 14.9 8.8 19.5h2.4l-1-3.4"/><path pathLength="1" d="M16.5 9.5a3.5 3.5 0 0 1 0 5"/><path pathLength="1" d="M18.5 7.5a6.5 6.5 0 0 1 0 9"/></svg></span><span class="cabeza-pagina__umbral"></span></div>
   </div>
 </div>
-
-
 
 <section class="seccion seccion--primera" aria-labelledby="t-agenda-movil">
   <div class="contenedor texto-largo">
@@ -190,7 +187,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
     <p>Los avisos y las noticias del Ayuntamiento se publican también como canal de noticias (Atom). Con una aplicación lectora de noticias (Feedly, Inoreader, NetNewsWire, Thunderbird…) le llegan en cuanto se publican, sin redes sociales y sin dar su teléfono ni su correo a nadie.</p>
     <p class="suscribirse-acciones"><a class="boton boton--borde" href="feed.xml"><svg class="icono" aria-hidden="true"><use href="#i-aviso"/></svg>Canal de avisos y noticias<span class="sr"> (archivo Atom)</span></a></p>
     <p>En su lector, pulse «Añadir» o «Suscribirse» y pegue esta dirección: <code class="rompe">https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/feed.xml</code></p>
-    
+
   </div>
 </section>
 
@@ -240,7 +237,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
           <li><a href="telefonos.html">Teléfonos</a></li>
           <li><a href="agenda.html">Agenda</a></li>
           <li><a href="accesibilidad.html">Accesibilidad</a></li>
-          
+
         </ul>
         <p class="pie__subtitulo" id="t-pie-redes">En redes sociales</p>
         <ul class="pie__redes" aria-labelledby="t-pie-redes">
@@ -255,7 +252,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
         </figure>
         <a class="pie__llegar ver-todo" href="contacto.html#t-donde">Dirección, horario y mapa<svg class="icono" aria-hidden="true"><use href="#i-flecha"/></svg></a>
       </div>
-      
+
     </div>
     <div class="contenedor pie__base">
       <nav class="pie__legal" aria-label="Información legal">
@@ -270,7 +267,7 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
       <!-- v3c · guia: la página para quien publica, fuera del menú (noindex siempre) -->
       <p class="pie__personal"><a href="publicar.html">Personal del Ayuntamiento: publicar</a></p>
       <p class="pie__creditos">Escudo: Heraldica 1010, CC BY-SA 4.0 (<a href="https://commons.wikimedia.org/wiki/File:Escudo_de_Fuentes_de_Le%C3%B3n_(chorros_de_agua_de_azur,_leon_todo_de_gules).svg">Wikimedia Commons</a>). Las fotos llevan su autor y licencia en <a href="pueblo.html#creditos">El pueblo</a>.</p>
-      <p class="pie__actualizada">Web actualizada el <time datetime="2026-10-05T15:44+02:00">5 de octubre de 2026 a las 15:44</time>.</p>
+      <p class="pie__actualizada">Web actualizada el <time datetime="2026-10-06T14:05+02:00">6 de octubre de 2026 a las 14:05</time>.</p>
       <p class="pie__propuesta" data-propuesta>Propuesta de diseño para el Ayuntamiento de Fuentes de León · no es la web oficial.</p>
     </div>
   </div>
@@ -300,17 +297,16 @@ if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) addEven
     <button type="button" class="mando__boton" data-paleta="a" aria-pressed="true"><span class="mando__muestra mando__muestra--a" aria-hidden="true"></span>Azur</button>
     <button type="button" class="mando__boton" data-paleta="b" aria-pressed="false"><span class="mando__muestra mando__muestra--b" aria-hidden="true"></span>Púrpura</button>
     <button type="button" class="mando__boton" data-paleta="c" aria-pressed="false"><span class="mando__muestra mando__muestra--c" aria-hidden="true"></span>Sinople</button>
-    
+
   </div>
 </div>
 <!-- [MANDO DE MAQUETA] fin -->
 
 <script type="application/json" id="datos-vivos">{"slug":"fuentes-de-leon","nombre":"Fuentes de León","nombre_corto":"Fuentes","zona":"Europe/Madrid","horario":{"texto":"Lunes a viernes, de 8:00 a 15:00. Un martes al mes, de 16:00 a 18:30, y tres miércoles al mes, de 17:00 a 19:30","tramos":[{"dias":[1,2,3,4,5],"de":"08:00","a":"15:00"}],"ejemplo":false},"avisos":[{"id":"biblioteca-horario-septiembre-2026","fecha":"2026-09-07","tema":"Cultura","titulo":"La biblioteca tiene nuevo horario desde el 14 de septiembre","texto":"Lunes, martes, jueves y viernes, de 17:00 a 21:00. Miércoles, de 10:00 a 14:00.","enlace":"https://aytofuentesdeleon.com/nuevo-horario-biblioteca-a-partir-del-14-de-septiembre/","titulo_corto":null,"urgente":false,"gravedad":null,"caduca":null,"ejemplo":false,"oculto":false,"plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"id":"oficina-trabajadora-social-2026","fecha":"2026-02-12","tema":"Servicios sociales","titulo":"La oficina de la trabajadora social está ahora en el consultorio médico","texto":"Se trasladó desde la Plaza de España para tener más espacio. Se entra por la puerta de Urgencias del consultorio.","enlace":"https://aytofuentesdeleon.com/cambio-de-la-oficina-de-la-trabajadora-social/","titulo_corto":null,"urgente":false,"gravedad":null,"caduca":null,"ejemplo":false,"oculto":false,"plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"id":"contenedor-marron-kit","fecha":"2026-01-26","tema":"Residuos","titulo":"Contenedor marrón: el kit de reciclaje se recoge en el Ayuntamiento","texto":"Desde el 19 de enero se recoge la fracción orgánica. Quien aún no tenga el kit (cubo, bolsas compostables y llave del contenedor) puede pasar a por él por el Ayuntamiento.","enlace":"https://aytofuentesdeleon.com/comienza-la-recogida-de-la-fraccion-organica-del-contenedor-marron-en-fuentes-de-leon/","titulo_corto":null,"urgente":false,"gravedad":null,"caduca":null,"ejemplo":false,"oculto":false,"plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"id":"punto-limpio-animales-muertos","fecha":"2026-08-11","tema":"Residuos","titulo":"No se pueden tirar animales muertos a los contenedores ni al Punto Limpio","texto":"Deben retirarse con los operadores autorizados. Si ve a alguien hacerlo, avise al Ayuntamiento o a la Guardia Civil.","enlace":"https://aytofuentesdeleon.com/comunicado-prohibicion-de-tirar-al-punto-limpio-o-a-los-contenedores-animales-muertos/","titulo_corto":null,"urgente":false,"gravedad":null,"caduca":null,"ejemplo":false,"oculto":false,"plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false}],"agenda":[{"id":"concentracion-senderista-2026","fecha":"2026-10-11","hora":"10:00","hora_fin":"18:00","titulo":"VII Concentración senderista","lugar":"Plaza de España","nota":null,"ejemplo":false,"oculto":false,"tipo":null,"convocatoria":null,"convocatoria_sr":null,"grabacion":null,"grabacion_sr":null,"ics":"ics/concentracion-senderista-2026.ics"},{"id":"dia-mancomunidad-2026","fecha":"2026-10-11","hora":null,"hora_fin":null,"titulo":"XLVII Día de la Mancomunidad","lugar":"Bodonal de la Sierra","nota":"Es de la Mancomunidad de Tentudía: se celebra fuera del pueblo.","ejemplo":false,"oculto":false,"tipo":null,"convocatoria":null,"convocatoria_sr":null,"grabacion":null,"grabacion_sr":null,"ics":"ics/dia-mancomunidad-2026.ics"},{"id":"fiesta-nuestra-senora-de-los-angeles-patrona-2026","fecha":"2026-08-02","titulo":"Nuestra Señora de los Ángeles (patrona)","lugar":null,"origen":"fiesta","ics":"ics/fiesta-nuestra-senora-de-los-angeles-patrona-2026.ics"},{"id":"fiesta-nuestra-senora-de-los-angeles-patrona-2027","fecha":"2027-08-02","titulo":"Nuestra Señora de los Ángeles (patrona)","lugar":null,"origen":"fiesta","ics":"ics/fiesta-nuestra-senora-de-los-angeles-patrona-2027.ics"},{"id":"fiesta-capeas-2026","fecha":"2026-08-14","titulo":"Capeas","lugar":null,"origen":"fiesta","ics":"ics/fiesta-capeas-2026.ics"},{"id":"fiesta-capeas-2027","fecha":"2027-08-14","titulo":"Capeas","lugar":null,"origen":"fiesta","ics":"ics/fiesta-capeas-2027.ics"},{"id":"fiesta-fiesta-del-emigrante-2026","fecha":"2026-08-15","titulo":"Fiesta del Emigrante","lugar":null,"origen":"fiesta","ics":"ics/fiesta-fiesta-del-emigrante-2026.ics"},{"id":"fiesta-fiesta-del-emigrante-2027","fecha":"2027-08-15","titulo":"Fiesta del Emigrante","lugar":null,"origen":"fiesta","ics":"ics/fiesta-fiesta-del-emigrante-2027.ics"},{"id":"pleno-2026-10-09","fecha":"2026-10-09","hora":null,"titulo":"Pleno extraordinario","lugar":null,"nota":null,"ejemplo":false,"oculto":false,"tipo":"pleno","convocatoria":"https://fuentesdeleon.sedelectronica.es/board","convocatoria_sr":", se abre la sede electrónica","grabacion":null,"grabacion_sr":null,"ics":"ics/pleno-2026-10-09.ics"}],"farmacias":{"lista":[],"cambio":"09:30","guardias":[],"rotacion":null,"oficial":{"nombre":"Colegio Oficial de Farmacéuticos de Badajoz","url":"https://cofbadajoz.com/farmacias-de-guardia/"},"ejemplo":false},"tiempo":{"url":"https://www.aemet.es/es/eltiempo/prediccion/municipios/fuentes-de-leon-id06055","lugar":"Fuentes de León"},"recogida":[],"canal":null,"web":"https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/","noticias":[{"id":"nueva-sala-cuevas-2026","fecha":"2026-08-27","titulo":"Una nueva sala conecta la Cueva de los Postes con la Cueva Nueva","resumen":"La campaña de este verano en las Cuevas ha abierto cerca de 100 metros de galerías y ha confirmado que las dos cavidades son un mismo sistema.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"visita-consejero-cuevas-2026","fecha":"2026-08-13","titulo":"El consejero Abel Bautista visita las Cuevas de Fuentes de León","resumen":"El vicepresidente de la Junta recorrió el Monumento Natural, declarado en 2001, acompañado de la alcaldesa.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"mejoras-pisos-tutelados-2026","fecha":"2026-08-12","titulo":"Nuevo equipamiento para los Pisos Tutelados y el Centro de Día Santa Ana","resumen":"Lavadora, secadora, televisores, butacas y sofás, con una subvención del Plan Impulsa ODS de la Diputación.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"carpa-municipal-2026","fecha":"2026-02-12","titulo":"El Ayuntamiento estrena una carpa municipal más ligera y más alta","resumen":"Se estrenó en el Carnaval. La ayuda LEADER fue de 45.375 euros.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"fitur-2026","fecha":"2026-01-29","titulo":"Fuentes de León, en FITUR con la Mancomunidad Turística de Tentudía","resumen":"La alcaldesa presentó en Madrid la oferta gastronómica de la comarca, con la Feria del Jamón como reclamo.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"contenedor-marron-2026","fecha":"2026-01-26","titulo":"Empieza la recogida de la fracción orgánica en el contenedor marrón","resumen":"Desde el 19 de enero se recoge de forma regular. El kit se retira en el Ayuntamiento.","imagen":null,"imagen_alt":"","ejemplo":false},{"id":"escala-jardines-2026","fecha":"2026-01-07","titulo":"Empieza el programa de formación y empleo «Verde y Tierra»","resumen":"El alumnado aprenderá a instalar y mantener jardines y zonas verdes, con subvención de la Junta.","imagen":null,"imagen_alt":"","ejemplo":false}],"tablon":{"actualizado":"2026-10-05T13:18:25.534Z","entradas":[{"fecha":"2026-10-05","tema":"Pleno","titulo":"Anuncio de la convocatoria","titulo_claro":"Convocatoria del Pleno extraordinario del 9 de octubre","url":"https://fuentesdeleon.sedelectronica.es/preview-document/281c2f5c-6063-4fb5-901d-d092279b6d69","oculto":false,"expediente":"PLN/2026/8","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-10-02","tema":"Empleo","titulo":"BASES PLAZA DE JARDINERIA PCEME 2026.","titulo_claro":"Plaza de jardinero o jardinera municipal: convocatoria y bases","url":"https://fuentesdeleon.sedelectronica.es/preview-document/14ebef7d-e329-421a-8d5d-be63a52fb10c","oculto":false,"expediente":"133/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-09-29","tema":"Empleo","titulo":"RESULTADOS DEFINITIVOS PROCESO SELECTIVO PARA CUBRIR PLAZAS DE CEI EL GLOBO.","titulo_claro":"","url":"https://fuentesdeleon.sedelectronica.es/preview-document/a26e4e69-44d5-4174-81bc-54a2f142e0e1","oculto":true,"expediente":"462/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-09-01","tema":"Impuestos","titulo":"APROBACIÓN INICIAL MODIFICACIÓN OF B.O.P. nº. 167 - Anuncio 3431_2026 - martes, 1 de septiembre de 2026","titulo_claro":"Tasa por ocupar la vía pública con obras: aprobación inicial del cambio","url":"https://fuentesdeleon.sedelectronica.es/preview-document/2fda331e-f09e-447d-85dc-e686c1041a61","oculto":false,"expediente":"898/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-09-01","tema":"Anuncios","titulo":"APROBACIÓN INICIAL OR_ B.O.P. nº. 167 - Anuncio 3430_2026 - martes, 1 de septiembre de 2026","titulo_claro":"Cortes temporales de calles para la hostelería: aprobación inicial de la ordenanza","url":"https://fuentesdeleon.sedelectronica.es/preview-document/3117669e-90e1-4784-a067-22da13221ec3","oculto":false,"expediente":"897/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-09-01","tema":"Anuncios","titulo":"APROBACIÓN INICIAL PAM CONTRA INCENDIOS B.O.P. nº. 167 - Anuncio 3448_2026 - martes, 1 de septiembre de 2026","titulo_claro":"Plan municipal contra incendios forestales: aprobación inicial","url":"https://fuentesdeleon.sedelectronica.es/preview-document/33026a6d-b682-47f1-91e1-bc778c1d987c","oculto":false,"expediente":"78/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false},{"fecha":"2026-09-01","tema":"Impuestos","titulo":"OF CORTE CALLE 898-26","titulo_claro":"Tasa por ocupar la vía pública con obras: texto de la ordenanza","url":"https://fuentesdeleon.sedelectronica.es/preview-document/693bf679-c347-4f2d-a51d-2a953f335923","oculto":false,"expediente":"898/2026","plazo_inicio":null,"plazo_fin":null,"plazo_ejemplo":false}]},"fiestas":[{"mes":2,"nombre":"Carnaval","cuando":"Febrero o marzo","mayor":false,"fecha_fija":null},{"mes":3,"nombre":"Feria del Jamón Ibérico","cuando":"En marzo (en 2026, del 19 al 22)","mayor":false,"fecha_fija":null},{"mes":5,"nombre":"Romería de San Isidro","cuando":"En mayo","mayor":false,"fecha_fija":null},{"mes":6,"nombre":"Corpus Christi","cuando":"Jueves, 60 días después del Domingo de Resurrección (en 2026, el 4 de junio)","mayor":true,"fecha_fija":null},{"mes":6,"nombre":"San Pedro y San Onofre","cuando":"Último fin de semana de junio","mayor":false,"fecha_fija":null},{"mes":8,"nombre":"Nuestra Señora de los Ángeles (patrona)","cuando":"1 y 2 de agosto","mayor":false,"fecha_fija":"08-02"},{"mes":8,"nombre":"Capeas","cuando":"14 y 15 de agosto","mayor":false,"fecha_fija":"08-14"},{"mes":8,"nombre":"Fiesta del Emigrante","cuando":"15 de agosto","mayor":false,"fecha_fija":"08-15"},{"mes":9,"nombre":"Virgen de Tudía","cuando":"En septiembre","mayor":false,"fecha_fija":null}],"servicios":{"ayuntamiento":[{"dias":[1,2,3,4,5],"de":"08:00","a":"15:00"}],"oficina-de-empleo-del-sexpe":[{"dias":[1,2,3,4,5],"de":"09:00","a":"14:00"}],"biblioteca-municipal-cronista-andres-bernaldez":[{"dias":[1,2,4,5],"de":"17:00","a":"21:00"},{"dias":[3],"de":"10:00","a":"14:00"}]},"tramites_sede":111,"rutas":{"tramites":"tramites.html","avisos":"avisos.html","agenda":"agenda.html","noticia":"noticia-{id}.html","media":"media/"},"hoja":null,"tablon_json":"contenido/tablon.json","horizonte_dias":60,"v_datos":"da4a611f"}</script>
-<script src="js/vivo.js?v=20917a62" defer></script>
-<script src="js/main.js?v=2504b34e" defer></script>
-<script src="js/movimiento.js?v=daa5c706" defer></script>
-<script src="js/identidad.js?v=848289b2" defer></script>
-
+<script src="js/vivo.js?v=11a1482f" defer></script>
+<script src="js/main.js?v=4737b8db" defer></script>
+<script src="js/movimiento.js?v=f5805715" defer></script>
+<script src="js/identidad.js?v=fcdf24c0" defer></script>
 
 </body>
 </html>
