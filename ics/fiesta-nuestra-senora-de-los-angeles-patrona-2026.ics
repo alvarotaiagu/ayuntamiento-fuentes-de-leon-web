@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:fiesta-nuestra-senora-de-los-angeles-patrona-2026@fuentes-de-leon.agend
  a
-DTSTAMP:20261006T120524Z
+DTSTAMP:20261007T115109Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:Nuestra Señora de los Ángeles (patrona)
