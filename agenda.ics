@@ -27,7 +27,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:fiesta-nuestra-senora-de-los-angeles-patrona-2026@fuentes-de-leon.agend
  a
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 SUMMARY:Nuestra Señora de los Ángeles (patrona)
@@ -36,7 +36,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-capeas-2026@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Capeas
@@ -45,7 +45,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-fiesta-del-emigrante-2026@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Fiesta del Emigrante
@@ -54,7 +54,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:pleno-2026-10-09@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Pleno extraordinario
@@ -64,7 +64,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:dia-mancomunidad-2026@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:XLVII Día de la Mancomunidad
@@ -76,7 +76,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:concentracion-senderista-2026@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;TZID=Europe/Madrid:20261011T100000
 DTEND;TZID=Europe/Madrid:20261011T180000
 SUMMARY:VII Concentración senderista
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-nuestra-senora-de-los-angeles-patrona-2027@fuentes-de-leon.agend
  a
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 SUMMARY:Nuestra Señora de los Ángeles (patrona)
@@ -96,7 +96,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-capeas-2027@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 SUMMARY:Capeas
@@ -105,7 +105,7 @@ URL:https://alvarotaiagu.github.io/ayuntamiento-fuentes-de-leon-web/agenda.
 END:VEVENT
 BEGIN:VEVENT
 UID:fiesta-fiesta-del-emigrante-2027@fuentes-de-leon.agenda
-DTSTAMP:20261007T115109Z
+DTSTAMP:20261008T120601Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Fiesta del Emigrante
